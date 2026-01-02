@@ -139,7 +139,7 @@ Navi Mumbai, Maharashtra
 
 
 <div align="center">
-<img src="https://github.com/sure-trust/SHIVOM-BHATTACHARJEE-g20-sql-and-powebi/blob/82d0a14b3f12382990392355301541b0acb5e10d/Final%20capstone%20project/Community%20Service.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/shivom21/Traffic-and-Pollution-Correlation/blob/7384b34dc1da5935ddf184e30dda7e5ebed5aa2c/Community%20Service.jpeg" alt="Community Service Photo 1" width="30%">
 </div>
 
 ---
