@@ -82,7 +82,7 @@
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/SHIVOM-BHATTACHARJEE-g20-sql-and-powebi/blob/890c9d5768b3246cc45efe5b3165e6dd0b97f3b4/Final%20capstone%20project/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/shivom21/Traffic-and-Pollution-Correlation/blob/7384b34dc1da5935ddf184e30dda7e5ebed5aa2c/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
